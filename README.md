@@ -1,4 +1,4 @@
-# Tofutush / 黑帮老大 / 吸螺壳 / توفۇتۇش
+# Tofutush
 
 Halfway webdev, wannabe gamedev, learning HCI (I think. I still don't quite know what my major actually is) and cybersecurity at college!
   
