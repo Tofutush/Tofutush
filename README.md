@@ -1,6 +1,6 @@
 # Tofutush
 
-Halfway webdev, wannabe gamedev, learning HCI (I think. I still don't quite know what my major actually is) and cybersecurity at college!
+Halfway webdev, wannabe gamedev, studying HCI and cybersecurity at college!
   
 ![](https://github-profile-trophy.vercel.app/?username=Tofutush&theme=onestar&column=5&margin-w=16&margin-h=16)
 
